@@ -6,7 +6,7 @@ var G=[
   ["Bina",1,0,0],["Puspa",1,1,0],["Una",0,1,1],["Cino",0,1,0],["Kamila",1,0,0],["Levia",0,0,1]]},
  {id:"kamis",t:"Kamis",s:"Tmn Ai",k:"k",rows:[
   ["Ka Muti",2,2,2],["Gica",1,0,1],["El",0,1,1],["Keysha Kircon",2,0,0],["Keysha Unpas",1,0,2],["Queen",1,1,1],
-  ["Sifaa Sixteen",1,1,0],["Asep",1,1,0],["Eca",2,4,0],["Keysha Dance",0,0,1],["Binuy",0,0,1]]},
+  ["Sifaa Sixteen",1,1,0],["Asep",1,1,0],["Eca",2,4,0],["Keysha Dance",0,0,1],["Binuy",0,0,1],["Nika",0,0,2]]},
  {id:"widut",t:"Tmn Widut",s:"Tanpa keterangan hari",k:"w",rows:[
   ["Naila D",0,0,1],["Anbia D",1,1,0]]},
  {id:"kakang",t:"Kakangkasep123",s:"Tanpa keterangan hari",k:"x",rows:[
